@@ -42,7 +42,7 @@ First download the image tar files, then load them:
 
 ````
 docker load < /path-to-image-tar/dphe-stream.tar
-docker load < path-to-image-tar/dphe-stream-nginx.tar
+docker load < /path-to-image-tar/dphe-stream-nginx.tar
 ````
 
 Then verify with 
