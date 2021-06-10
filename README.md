@@ -2,7 +2,7 @@
 
 ## Overview of tools
 
-The following tools will be needed to import/load the saved docker images ((Docker version 19.03.12 and docker-compose version 1.26.2 are used to build the images and save them into tar files) into your Docker engine:
+The following tools will be needed to import/load the saved docker images (**Docker version *19.03.12*** and **docker-compose version *1.26.2*** are used to build the images and save them into tar files) into your Docker engine:
 
 - [Docker Engine](https://docs.docker.com/install/) 
 - [Docker Compose](https://docs.docker.com/compose/install/)
