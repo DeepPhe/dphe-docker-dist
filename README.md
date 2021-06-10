@@ -2,11 +2,12 @@
 
 ## Overview of tools
 
-- [Docker Engine](https://docs.docker.com/install/)
+The following tools will be needed to import/load the saved docker images ((Docker version 19.03.12 and docker-compose version 1.26.2 are used to build the images and save them into tar files) into your Docker engine:
+
+- [Docker Engine](https://docs.docker.com/install/) 
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
 Note: Docker Compose requires Docker to be installed and running first.
-
 
 This multi-container docker stack consists of the following 2 contaienrs: 
 
