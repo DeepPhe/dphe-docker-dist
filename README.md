@@ -33,8 +33,8 @@ Note: the following instructions with docker commands are based on managing Dock
 
 Once the images are built, save each image to a tar file:
 ````
-docker save -o /path-to-save/dphe-stream.tar dphe-stream:0.4.0
-docker save -o /path-to-save/dphe-stream-nginx.tar dphe-stream-nginx:0.4.0
+docker save -o /path-to-save/dphe-stream.tar dphe-stream:0.6.0
+docker save -o /path-to-save/dphe-stream-nginx.tar dphe-stream-nginx:0.6.0
 ````
 
 ## Load the image tar files on another machine
