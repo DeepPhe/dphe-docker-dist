@@ -2,7 +2,7 @@ version: "3.7"
 services:
 
   dphe-stream:
-    image: dphe-stream:0.4.0
+    image: dphe-stream:0.6.0
     hostname: dphe-stream
     container_name: dphe-stream
     init: true
@@ -21,7 +21,7 @@ services:
       - dphe-stream-network
 
   dphe-stream-nginx:
-    image: dphe-stream-nginx:0.4.0
+    image: dphe-stream-nginx:0.6.0
     hostname: dphe-stream-nginx
     container_name: dphe-stream-nginx
     init: true
